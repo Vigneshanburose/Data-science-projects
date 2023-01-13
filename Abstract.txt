@@ -1,0 +1,5 @@
+Project Title :
+Customer Segmentation using k-means clustering
+
+Abstract :
+The project aims to use machine learning algorithms, specifically KMeans Clustering, to segment customers of a supermarket mall based on their demographic and spending data. The goal is to identify target customers who are easily convertable, and provide insights to the marketing team to develop effective marketing strategies. The project will demonstrate how customer segmentation can be achieved in a simple way using Python, and provide a real-world example of how marketing strategies can be applied based on customer segments.
